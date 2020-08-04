@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://get.pixelexperience.org/bkZZTzgya0pPSUttWFQxa0Y3akhkd0UyRlRSZ3BQUVFObGUwYWM1YkxXNWJyVVNuMzVHcUxyczZyQjYxbnRGRlpTVGF2ajNoNXJxTVJtYmhSWXVCZjdVcFk0WEkxV1lMOVJCOHNROE1KMU09/PixelExperience_Plus_guacamole-10.0-20200612-1126-OFFICIAL.zip
+  ROM_NAME: PE
   TZ: Asia/Shanghai
 
 jobs:
