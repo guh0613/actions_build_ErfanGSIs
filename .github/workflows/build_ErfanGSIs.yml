@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.pixelexperience.org/bkZZTzgya0pPSUttWFQxa0Y3akhkd0UyRlRSZ3BQUVFObGUwYWM1YkxXNWJyVVNuMzVHcUxyczZyQjYxbnRGRlpTVGF2ajNoNXJxTVJtYmhSWXVCZjdVcFk0WEkxV1lMOVJCOHNROE1KMU09/PixelExperience_Plus_guacamole-10.0-20200612-1126-OFFICIAL.zip
+  ROM_URL: https://github.com/guh0613/av-and-bv/releases/download/1.1/PixelExperience_Plus_guacamole-10.0-20200612-1126-OFFICIAL.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
