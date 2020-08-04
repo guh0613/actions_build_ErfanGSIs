@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://get.pixelexperience.org/bkZZTzgya0pPSUttWFQxa0Y3akhkd0UyRlRSZ3BQUVFObGUwYWM1YkxXNWJyVVNuMzVHcUxyczZyQjYxbnRGRlpTVGF2ajNoNXJxTVJtYmhSWXVCZjdVcFk0WEkxV1lMOVJCOHNROE1KMU09/PixelExperience_Plus_guacamole-10.0-20200612-1126-OFFICIAL.zip
-  ROM_NAME: PE
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
